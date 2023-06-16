@@ -11,7 +11,7 @@ title                    : "Zijia Homepage"
 title_separator          : "-"
 name                     : &name "Zijia Cheng"
 description              : &description "personal description"
-url                      : https://zijia_cheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Zijia-Cheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CZJ2020"
+  github           : "Zijia-Cheng"
   google_plus      :
   keybase          :
   instagram        :
