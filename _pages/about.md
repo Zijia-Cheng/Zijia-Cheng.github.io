@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding-right: 10px;">
-        I am a Ph.D. student in the Department of Physics at the Princeton University. I am working with Prof. [M.Zahid.Hasan](https://phy.princeton.edu/people/m-zahid-hasan) on the study of topological quantum materials using Angle-resolved Photoemission spectroscopy (ARPES) and Nonlinear optics. The main focus of my research is to understand the electronic structure of novel topological materials (Including Kagome metals, Weyl semimetals etc.) and to explore the novel quantum phenomena in these platforms. I am also interested in developing new experimental and anlytical (machine-learning) techniques.
+        I am a Ph.D. student in the Department of Physics at the Princeton University. I am working with <a href="https://phy.princeton.edu/people/m-zahid-hasan">M.Zahid.Hasan</a> on the study of topological quantum materials using Angle-resolved Photoemission spectroscopy (ARPES) and Nonlinear optics. The main focus of my research is to understand the electronic structure of novel topological materials (Including Kagome metals, Weyl semimetals etc.) and to explore the novel quantum phenomena in these platforms. I am also interested in developing new experimental and anlytical (machine-learning) techniques.
     </div>
     <div>
         <figure>
