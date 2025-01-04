@@ -50,7 +50,13 @@ footer,
 header,
 hgroup,
 main,
-nav,
+nav {
+  /* Set the background image for the navigation bar */
+  background-image: url('/images/background.png'); /* Update with your navbar image path */
+  background-size: cover; /* Cover the entire nav bar */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* No repeat */
+}
 section {
   display: block;
 }
