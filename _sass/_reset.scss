@@ -9,7 +9,13 @@ html {
   box-sizing: border-box;
   background-color: $background-color;
   font-size: 16px;
-
+  
+  /* Background image setup */
+  background-image: url('/images/background.png'); /* Update with your image path */
+  background-size: cover; /* Cover the entire page */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background */
+  
   @include breakpoint($medium) {
     font-size: 18px;
   }
@@ -17,7 +23,6 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
-
 /* Remove margin */
 
 body { margin: 0; }
