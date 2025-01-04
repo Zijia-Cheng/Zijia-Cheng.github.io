@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, welcome to Zijia's website!"
+title: "Ciao, welcome to Zijia's personal website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
