@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-<img align="Left" src="../images/cat_in_the_lab.jpg" width="300px" style="padding-right: 15px">
+<img align="Left" src="../images/cat_in_the_lab.jpg" width="200px" style="padding-right: 10px">
 
 I am a Ph.D. student in the Department of Physics at Princeton University, working under the guidance of <a href="https://phy.princeton.edu/people/m-zahid-hasan">M.Zahid.Hasan</a> on the study of topological quantum materials. My research primarily utilizes Angle-resolved Photoemission Spectroscopy (ARPES), nonlinear optics, and theoretical models to investigate the complex electronic structures of novel topological materials, including Kagome metals, Weyl semimetals, exciton insulators, and Kondo lattices. My goal is to uncover new quantum phenomena within these materials.
 
