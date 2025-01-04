@@ -309,6 +309,24 @@
 }
 
 
+#site-nav {
+  background-color: #00008B; // Dark blue
+  color: #000; // Black text
+
+  // If links are used within the navigation, ensure they also have the black color
+  a {
+      color: #000; // Black text
+      text-decoration: none; // Removes underline from links
+
+      &:hover, &:focus {
+          color: #333; // Slightly lighter black for hover and focus states
+          text-decoration: underline; // Optionally underline on hover
+      }
+  }
+}
+
+
+
 /*
    Navigation list
    ========================================================================== */
