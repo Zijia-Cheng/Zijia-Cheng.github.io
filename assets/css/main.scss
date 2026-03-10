@@ -144,6 +144,37 @@
   margin-bottom: 0;
 }
 
+.feature-card__image,
+.figure-card__image {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.9rem;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.figure-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.figure-card {
+  margin: 0;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.04);
+}
+
+.figure-card figcaption {
+  color: #334155;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
 .archive__item-meta {
   display: flex;
   flex-wrap: wrap;
@@ -192,6 +223,10 @@
 
 @media (max-width: 900px) {
   .feature-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .figure-grid {
     grid-template-columns: 1fr;
   }
 

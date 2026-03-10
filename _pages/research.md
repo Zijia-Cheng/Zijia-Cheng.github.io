@@ -29,6 +29,23 @@ I am especially interested in cases where topology is not just inherited from a 
 That includes Kondo-lattice materials, charge-ordered kagome systems, and excitonic or symmetry-breaking phases in which topology and
 correlations have to be understood together rather than separately.
 
+## Research Snapshots
+
+<div class="figure-grid">
+  <figure class="figure-card">
+    <img class="figure-card__image" src="/images/natcomm2025_fig1.png" alt="Device and photocurrent figure from the 2025 Nature Communications paper on Kagome chiral charge order.">
+    <figcaption><strong>Broken symmetries in KV<sub>3</sub>Sb<sub>5</sub>.</strong> Nonlinear photocurrent microscopy reveals the symmetry breaking tied to Kagome chiral charge order.</figcaption>
+  </figure>
+  <figure class="figure-card">
+    <img class="figure-card__image" src="/images/nature2024_as_fig1.png" alt="Experimental and spectroscopic figure from the 2024 Nature paper on hybrid topology in arsenic.">
+    <figcaption><strong>Hybrid topology in elemental arsenic.</strong> Spectroscopy and microscopy connect bulk, surface, and edge signatures within one material platform.</figcaption>
+  </figure>
+  <figure class="figure-card">
+    <img class="figure-card__image" src="/images/nature2022_linkedloop_fig3.png" alt="Linked-loop state figure from the 2022 Nature paper on a topological magnet.">
+    <figcaption><strong>Linked-loop topology in a magnetic system.</strong> The linked-loop state provides a direct experimental handle on knot-theoretic topology in quantum matter.</figcaption>
+  </figure>
+</div>
+
 ## Representative Directions
 
 ### Hybrid and higher-order topology
@@ -58,7 +75,8 @@ These systems are especially interesting because the topology is tied to many-bo
 
 ## Selected Papers
 
+- <a href="/talks/2025-04-22-kagome-chiral-charge-order">Broken symmetries associated with a Kagome chiral charge order</a>, <em>Nature Communications</em> 16, 3782 (2025)
 - <a href="/talks/2024-04-10">A hybrid topological quantum state in an elemental solid</a>, <em>Nature</em> 628, 527–533 (2024)
 - <a href="/talks/2024-02-03">Untangling charge-order dependent bulk states from surface effects in ScV<sub>6</sub>Sn<sub>6</sub></a>, <em>Physical Review B</em> 109, 075150 (2024)
+- <a href="/talks/2013-03-01-tutorial-1">Visualization of Tunable Weyl Line in A–A Stacking Kagome Magnets</a>, <em>Advanced Materials</em> 35, 2205927 (2023)
 - <a href="/talks/2022-04-27-paper-1">Observation of a linked-loop quantum state in a topological magnet</a>, <em>Nature</em> 604, 647–652 (2022)
-- <a href="/talks/2021-11-17-paper-1">Signatures of Weyl Fermion Annihilation in a Correlated Kagome Magnet</a>, <em>Physical Review Letters</em> 127, 256403 (2021)

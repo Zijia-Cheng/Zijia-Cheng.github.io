@@ -63,22 +63,30 @@ and build a model that is both useful and explainable.
 
 <div class="feature-grid">
   <div class="feature-card">
+    <img class="feature-card__image" src="/images/nature2024_as_fig1.png" alt="Figure from the Nature paper on hybrid topology in elemental arsenic.">
     <h3><a href="/talks/2024-04-10">Hybrid topology in elemental arsenic</a></h3>
     <p>Our 2024 <em>Nature</em> paper showed that elemental arsenic hosts a hybrid topological phase combining strong and higher-order topology in one material platform.</p>
   </div>
   <div class="feature-card">
-    <h3><a href="/talks/2024-02-03">Charge order in ScV<sub>6</sub>Sn<sub>6</sub></a></h3>
-    <p>This work clarified how charge order reshapes the bulk electronic structure of ScV<sub>6</sub>Sn<sub>6</sub> while separating it from surface-driven effects.</p>
+    <img class="feature-card__image" src="/images/natcomm2025_fig1.png" alt="Figure from the Nature Communications paper on Kagome chiral charge order.">
+    <h3><a href="/talks/2025-04-22-kagome-chiral-charge-order">Kagome chiral charge order</a></h3>
+    <p>Our 2025 <em>Nature Communications</em> paper used nonlinear photocurrent microscopy to identify the broken symmetries of the chiral charge-ordered state in KV<sub>3</sub>Sb<sub>5</sub>.</p>
   </div>
   <div class="feature-card">
-    <h3><a href="/posts/2022/07/blog-post-1/">DrawBZ</a></h3>
-    <p>I also built small research tools such as DrawBZ, a utility that makes it easier to construct bulk and surface Brillouin zones for complicated structures.</p>
+    <img class="feature-card__image" src="/images/nature2022_linkedloop_fig3.png" alt="Figure from the Nature paper on linked-loop topology in a topological magnet.">
+    <h3><a href="/talks/2022-04-27-paper-1">Linked-loop topology in magnets</a></h3>
+    <p>This co-first-author <em>Nature</em> paper directly visualized a linked-loop quantum state and its associated surface boundary signatures.</p>
+  </div>
+  <div class="feature-card">
+    <h3><a href="/talks/2024-02-03">Charge order in ScV<sub>6</sub>Sn<sub>6</sub></a></h3>
+    <p>This work clarified how charge order reshapes the bulk electronic structure of ScV<sub>6</sub>Sn<sub>6</sub> while separating it from surface-driven effects.</p>
   </div>
 </div>
 
 ## Recent Highlights
 
 - **2025** — Princeton awarded my PhD in Physics on March 29, 2025.
+- **2025** — Published <em>Broken symmetries associated with a Kagome chiral charge order</em> in <em>Nature Communications</em>.
 - **2024** — Published <em>A hybrid topological quantum state in an elemental solid</em> in <em>Nature</em>.
 - **2024** — Published work on ScV<sub>6</sub>Sn<sub>6</sub> in <em>Physical Review B</em>.
 - **2023–2024** — Continued work on kagome systems, correlated topology, and Kondo-lattice materials.
