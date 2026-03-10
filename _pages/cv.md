@@ -2,38 +2,51 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Summary
+## Download
 
-This page provides a short overview. For the full document, download the PDF CV below.
+For the complete version, download the PDF below.
 
 <p><a class="btn btn--primary" href="/files/CV_202308.pdf">Download CV (PDF)</a></p>
 
-## Research Focus
+## Education
+
+- **Princeton University** — PhD in Physics, degree awarded March 29, 2025
+- **Tsinghua University** — BS in Physics, Xuetang Talents Program
+
+## Research Experience
+
+- **Princeton University, Laboratory for Topological Quantum Matter and Advanced Spectroscopy**  
+  Research focused on topological quantum materials, ARPES, scanning tunneling microscopy, and related data analysis.
+
+## Areas of Work
 
 - Topological quantum materials
 - Kagome metals and magnetic systems
-- ARPES, tunneling microscopy, and electronic structure analysis
-- Quantitative modeling and data-intensive research
+- ARPES, scanning probes, and electronic structure analysis
+- Correlation-driven and interaction-assisted topology
+- Quantitative modeling and data-intensive workflows
 
-## Current Academic Profile
+## Selected Highlights
 
-- Department of Physics, Princeton University
-- Research focus on topological quantum materials and spectroscopic probes
+- Work on Weyl and linked-loop states in kagome magnets
+- Work on hybrid and higher-order topology in elemental arsenic
+- Studies of charge-order effects in topological kagome systems
+- Research on correlated topology in Kondo-lattice materials
 
-## Selected Research Topics
+## Awards and Activities
 
-- Weyl and linked-loop states in kagome magnets
-- Higher-order and hybrid topology
-- Charge-order effects in quantum materials
-- Correlation-driven topological phenomena
+- First Place Poster Award, Princeton Materials Research Day (2023)
+- Sigma Xi student presentation recognition (2022)
+- Chair, APS March Meeting session on strong electronic correlations in topological materials (2023)
 
-## Online Profiles
+## Profiles
 
 - <a href="https://scholar.google.com.sg/citations?user=KNUkxEgAAAAJ&hl=en">Google Scholar</a>
 - <a href="https://github.com/Zijia-Cheng">GitHub</a>
+- <a href="https://www.linkedin.com/in/zijia-cheng-1588791b4/">LinkedIn</a>
 - <a href="mailto:zijiac@princeton.edu">Email</a>

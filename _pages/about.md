@@ -1,63 +1,61 @@
 ---
 permalink: /
 title: "Zijia Cheng"
-excerpt: "Condensed matter physics, topological quantum materials, and quantitative research."
-author_profile: false
+excerpt: "Physics PhD, Princeton University. Topological quantum materials, ARPES, and quantitative modeling."
+author_profile: true
 show_title: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div class="home-hero">
-  <div class="home-hero__content">
-    <p class="home-hero__eyebrow">Condensed Matter Physics • Topological Materials • Quantitative Research</p>
-    <h1 class="home-hero__title">Zijia Cheng</h1>
-    <p class="home-hero__lead">
-      I study topological quantum materials using spectroscopy, microscopy, and theory-driven analysis.
-      My work focuses on kagome systems, Weyl physics, correlated materials, and emerging quantum phases.
-    </p>
-    <p class="home-hero__lead">
-      I am especially interested in building clear experimental stories around complex electronic structure
-      and in applying rigorous quantitative thinking across both physics and data-driven research.
-    </p>
-    <div class="home-hero__actions">
-      <a class="btn btn--primary" href="/research/">Research</a>
-      <a class="btn btn--inverse" href="/publications/">Publications</a>
-      <a class="btn btn--light-outline" href="/cv/">CV</a>
-      <a class="btn btn--light-outline" href="mailto:zijiac@princeton.edu">Email</a>
-    </div>
-  </div>
-  <div class="home-hero__media">
-    <img src="/images/self.png" alt="Portrait of Zijia Cheng">
+<div class="home-intro">
+  <p class="home-intro__eyebrow">Topological Quantum Materials • ARPES • Correlated Electron Systems</p>
+  <h1 class="home-intro__title">Hi, I’m Zijia.</h1>
+  <p class="home-intro__lead">
+    I recently completed my PhD in Physics at Princeton University, where I worked in the
+    <a href="https://zahidhasangroup.scholar.princeton.edu/">Hasan Research Group</a> on topological quantum materials.
+    My work has focused on how topology, symmetry, and electronic correlations show up in real materials,
+    especially through angle-resolved photoemission spectroscopy, scanning probes, and theory-guided analysis.
+  </p>
+  <p class="home-intro__lead">
+    Over the past several years, I have worked on kagome metals, magnetic topological systems, charge-ordered materials,
+    Kondo-lattice physics, and interaction-driven topological phases. I enjoy projects where a messy experimental picture
+    can be turned into a clean physical story.
+  </p>
+  <div class="home-intro__actions">
+    <a class="btn btn--primary" href="/research/">Research</a>
+    <a class="btn btn--inverse" href="/publications/">Publications</a>
+    <a class="btn btn--light-outline" href="/cv/">CV</a>
+    <a class="btn btn--light-outline" href="mailto:zijiac@princeton.edu">Email</a>
   </div>
 </div>
 
-## About
+## Background
 
-I am a researcher in condensed matter physics with a focus on topological quantum materials.
-My research spans angle-resolved photoemission spectroscopy (ARPES), nonlinear optical probes,
-and theory-guided interpretation of electronic structure in kagome metals, Weyl systems,
-exciton-related states, and correlated materials.
+I received my PhD in Physics from Princeton University on March 29, 2025, after previously earning a BS in Physics from
+Tsinghua University. During graduate school I worked on experimental condensed matter physics, with an emphasis on
+electronic structure in topological and strongly correlated materials. My training has been shaped by a mix of spectroscopy,
+materials-driven questions, and close interaction with theory.
 
-Alongside academic research, I am also interested in quantitative modeling and machine learning
-for financial applications. I aim to bring the same emphasis on careful measurement, signal extraction,
-and interpretable modeling to both scientific and data-intensive problems.
+Alongside academic research, I have a longstanding interest in quantitative modeling, machine learning, and statistical inference.
+What carries across both physics and quantitative work is the same habit of mind: start with noisy data, identify the right structure,
+and build a model that is both useful and explainable.
 
 ## Research Areas
 
 <div class="feature-grid">
   <div class="feature-card">
     <h3>Topological Quantum Materials</h3>
-    <p>Experimental studies of Weyl physics, linked-loop states, higher-order topology, and correlated topological matter.</p>
+    <p>I study how band topology manifests in real materials, from Weyl and nodal-line systems to higher-order and hybrid topological phases.</p>
   </div>
   <div class="feature-card">
     <h3>Spectroscopy and Microscopy</h3>
-    <p>ARPES, tunneling microscopy, and complementary probes for resolving bulk, surface, and edge electronic structure.</p>
+    <p>My work uses ARPES together with complementary probes to disentangle bulk bands, surface states, and interaction-driven reconstructions.</p>
   </div>
   <div class="feature-card">
     <h3>Quantitative Modeling</h3>
-    <p>Data analysis, signal extraction, and model-driven workflows for complex physical systems and quantitative research.</p>
+    <p>I care a lot about careful data analysis, signal extraction, and building workflows that turn difficult measurements into reliable conclusions.</p>
   </div>
 </div>
 
@@ -66,20 +64,21 @@ and interpretable modeling to both scientific and data-intensive problems.
 <div class="feature-grid">
   <div class="feature-card">
     <h3><a href="/talks/2024-04-10">Hybrid topology in elemental arsenic</a></h3>
-    <p>A 2024 <em>Nature</em> paper showing a hybrid topological phase with linked strong and higher-order topology.</p>
+    <p>Our 2024 <em>Nature</em> paper showed that elemental arsenic hosts a hybrid topological phase combining strong and higher-order topology in one material platform.</p>
   </div>
   <div class="feature-card">
     <h3><a href="/talks/2024-02-03">Charge order in ScV<sub>6</sub>Sn<sub>6</sub></a></h3>
-    <p>A study clarifying how charge order shapes bulk and surface states in a kagome metal.</p>
+    <p>This work clarified how charge order reshapes the bulk electronic structure of ScV<sub>6</sub>Sn<sub>6</sub> while separating it from surface-driven effects.</p>
   </div>
   <div class="feature-card">
     <h3><a href="/posts/2022/07/blog-post-1/">DrawBZ</a></h3>
-    <p>A small utility project for constructing bulk and surface Brillouin zones more efficiently.</p>
+    <p>I also built small research tools such as DrawBZ, a utility that makes it easier to construct bulk and surface Brillouin zones for complicated structures.</p>
   </div>
 </div>
 
-## Recent Updates
+## Recent Highlights
 
-- **2024** — Published work on hybrid topology in elemental arsenic in <em>Nature</em>.
-- **2024** — Published work on charge-order-dependent bulk states in ScV<sub>6</sub>Sn<sub>6</sub> in <em>Physical Review B</em>.
-- **2023** — Shared a preprint on topological ferromagnetic Kondo lattices.
+- **2025** — Princeton awarded my PhD in Physics on March 29, 2025.
+- **2024** — Published <em>A hybrid topological quantum state in an elemental solid</em> in <em>Nature</em>.
+- **2024** — Published work on ScV<sub>6</sub>Sn<sub>6</sub> in <em>Physical Review B</em>.
+- **2023–2024** — Continued work on kagome systems, correlated topology, and Kondo-lattice materials.

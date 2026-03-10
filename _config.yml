@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zijia Cheng"
 title_separator          : "-"
 name                     : &name "Zijia Cheng"
-description              : &description "Research website for Zijia Cheng: topological quantum materials, spectroscopy, and quantitative research."
+description              : &description "Personal website of Zijia Cheng, with research on topological quantum materials, ARPES, correlated systems, and related projects."
 url                      : https://Zijia-Cheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zijia Cheng"
   avatar           : "self.png"
-  bio              : "Researcher in condensed matter physics, focused on topological quantum materials and spectroscopy."
+  bio              : "Physics PhD from Princeton University (2025), with research in topological quantum materials, ARPES, and correlated electron systems."
   location         : "Princeton, NJ"
-  employer         : "Princeton University"
+  employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.sg/citations?user=KNUkxEgAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=KNUkxEgAAAAJ&hl=en"
   email            : "zijiac@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "zijia-cheng-1588791b4"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
