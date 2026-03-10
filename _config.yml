@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijia Homepage"
+title                    : "Zijia Cheng"
 title_separator          : "-"
 name                     : &name "Zijia Cheng"
-description              : &description "personal description"
+description              : &description "Research website for Zijia Cheng: topological quantum materials, spectroscopy, and quantitative research."
 url                      : https://Zijia-Cheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zijia Cheng"
   avatar           : "self.png"
-  bio              : "Phd student in the Department of Physics, Princeton University"
-  location         : "Princeton,NJ"
+  bio              : "Researcher in condensed matter physics, focused on topological quantum materials and spectroscopy."
+  location         : "Princeton, NJ"
   employer         : "Princeton University"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=KNUkxEgAAAAJ&hl=zh-CN"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

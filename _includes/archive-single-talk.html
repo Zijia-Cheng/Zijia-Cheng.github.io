@@ -32,11 +32,18 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    <p class="archive__item-meta">
+      {% if post.type %}<span>{{ post.type }}</span>{% endif %}
+      {% if post.venue %}<span>{{ post.venue }}</span>{% endif %}
+      {% if post.date %}<span>{{ post.date | date: '%Y' }}</span>{% endif %}
+    </p>
+    {% if post.location %}
+      <p class="archive__item-context">{{ post.location }}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.content %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.content | strip_html | normalize_whitespace | truncate: 220 }}</p>
+    {% endif %}
   </article>
 </div>

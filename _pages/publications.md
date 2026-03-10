@@ -2,15 +2,15 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+This page highlights selected publications and research summaries available on this site.
+For a more complete list, please see my <a href="https://scholar.google.com.sg/citations?user=KNUkxEgAAAAJ&hl=en">Google Scholar profile</a>.
 
-{% include base_path %}
+## Selected Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign selected_talks = site.talks | sort: "date" | reverse %}
+{% for post in selected_talks limit:5 %}
+  {% include archive-single-talk.html %}
 {% endfor %}

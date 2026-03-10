@@ -2,58 +2,38 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Summary
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+This page provides a short overview. For the full document, download the PDF CV below.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<p><a class="btn btn--primary" href="/files/CV_202308.pdf">Download CV (PDF)</a></p>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Focus
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Topological quantum materials
+- Kagome metals and magnetic systems
+- ARPES, tunneling microscopy, and electronic structure analysis
+- Quantitative modeling and data-intensive research
+
+## Current Academic Profile
+
+- Department of Physics, Princeton University
+- Research focus on topological quantum materials and spectroscopic probes
+
+## Selected Research Topics
+
+- Weyl and linked-loop states in kagome magnets
+- Higher-order and hybrid topology
+- Charge-order effects in quantum materials
+- Correlation-driven topological phenomena
+
+## Online Profiles
+
+- <a href="https://scholar.google.com.sg/citations?user=KNUkxEgAAAAJ&hl=en">Google Scholar</a>
+- <a href="https://github.com/Zijia-Cheng">GitHub</a>
+- <a href="mailto:zijiac@princeton.edu">Email</a>
