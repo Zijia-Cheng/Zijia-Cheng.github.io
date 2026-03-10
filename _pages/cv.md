@@ -38,12 +38,6 @@ For the complete version, download the PDF below.
 - Studies of charge-order effects in topological kagome systems
 - Research on correlated topology in Kondo-lattice materials
 
-## Awards and Activities
-
-- First Place Poster Award, Princeton Materials Research Day (2023)
-- Sigma Xi student presentation recognition (2022)
-- Chair, APS March Meeting session on strong electronic correlations in topological materials (2023)
-
 ## Profiles
 
 - <a href="https://scholar.google.com.sg/citations?user=KNUkxEgAAAAJ&hl=en">Google Scholar</a>
